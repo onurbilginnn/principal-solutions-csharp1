@@ -1,6 +1,11 @@
 <h2>Fundamental Coding Problems' Solutions on C# - 1</h2>
 
+<h3>*** Arrays ***</h3>
+
+
+
 <h3>*** Numbers ***</h3>
+
 <h6>Factorials:</h6>
 <p>Sum Factorial; e.g 1+2+3+4...</p>
 <p>Multiplication Factorial; e.g 1*2*3*4...</p>
@@ -10,4 +15,4 @@
 <p>An integer number is said to be a perfect number if sum of its factors is equal to the number itself.(including 1, but not the number itself). For example, 6 is a perfect number, because 6 = 1 + 2 + 3.</p>
 <h6>Random Problem Generator on Four Operations:</h6>
 <p>Generating random problems with two numbers on four basic operations of math.</p>
-<h3>*** Arrays ***</h3>
+
