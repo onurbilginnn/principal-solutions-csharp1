@@ -2,6 +2,18 @@
 
 <h2>*** Arrays ***</h2>
 
+<h4>Duplicate Detection:</h4>
+<p>An app that inputs five numbers, between 10 and 100. If the user enters a duplicate value the app should not record the data to the array.</p>
+
+<h4>Duplicate Detection:</h4>
+<p>An app that inputs five numbers, between 10 and 100. If the user enters a duplicate value the app should not record the data to the array.</p>
+<h4>Prime Number Check:</h4>
+<p>Determining which of the integers between 1 - 100 are prime numbers.</p>
+<h4>Two Sets Control:</h4>
+<p>Controlling the given two sets if they are equal and calculating the intersection and union sets.</p>
+<h4>Two Dices Roll:</h4>
+<p>Rolling two dices randomly and calculating sum of their values. Then counting the occurences of these summations</p>
+
 
 
 <h2>*** Numbers ***</h2>
