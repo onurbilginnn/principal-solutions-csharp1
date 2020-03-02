@@ -4,16 +4,14 @@
 
 <h4>Duplicate Detection:</h4>
 <p>An app that inputs five numbers, between 10 and 100. If the user enters a duplicate value the app should not record the data to the array.</p>
-
-<h4>Duplicate Detection:</h4>
-<p>An app that inputs five numbers, between 10 and 100. If the user enters a duplicate value the app should not record the data to the array.</p>
 <h4>Prime Number Check:</h4>
 <p>Determining which of the integers between 1 - 100 are prime numbers.</p>
 <h4>Two Sets Control:</h4>
 <p>Controlling the given two sets if they are equal and calculating the intersection and union sets.</p>
 <h4>Two Dices Roll:</h4>
 <p>Rolling two dices randomly and calculating sum of their values. Then counting the occurences of these summations</p>
-
+<h4>Chess Knight Move Manually:</h4>
+<p>Create an 8x8 chess board, and ask the user to place the knight on a specific location on the chess board. Then ask the user to move the knight around the board. The knight should move like "L" according to the chess rules, it should'nt leave the chess board and should not go to the same square twice. Chess board squares should be indicated as "0" and the visited squares should be indicated as "1". </p>
 
 
 <h2>*** Numbers ***</h2>
