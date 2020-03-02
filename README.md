@@ -12,6 +12,18 @@
 <p>Rolling two dices randomly and calculating sum of their values. Then counting the occurences of these summations</p>
 <h4>Chess Knight Move Manually:</h4>
 <p>Create an 8x8 chess board, and ask the user to place the knight on a specific location on the chess board. Then ask the user to move the knight around the board. The knight should move like "L" according to the chess rules, it should'nt leave the chess board and should not go to the same square twice. Chess board squares should be indicated as "0" and the visited squares should be indicated as "1". </p>
+<h4>Chess Knight Move Auto:</h4>
+<p>On a blank chessboard, each of the 16 squares nearest the center is rated as 8, each corner square is rated as 2, and the other squares have accessibility numbers of 3, 4 or 6 as follows:</p>
+<ul>
+    <li>2 3 4 4 4 4 3 2</li>
+    <li>3 4 6 6 6 6 4 3</li>
+    <li>4 6 8 8 8 8 6 4</li>
+    <li>4 6 8 8 8 8 6 4</li>
+    <li>4 6 8 8 8 8 6 4</li>
+    <li>4 6 8 8 8 8 6 4</li>
+     <li>3 4 6 6 6 6 4 3</li>
+     <li>2 3 4 4 4 4 3 2</li>
+  </ul>
 
 
 <h2>*** Numbers ***</h2>
