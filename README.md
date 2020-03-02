@@ -24,7 +24,8 @@
      <li>3 4 6 6 6 6 4 3</li>
      <li>2 3 4 4 4 4 3 2</li>
   </ul>
-
+<p>The knight should always move to the square with the lowest accessibility number.</p>
+<p>The visited square indicates "9".</p>
 
 <h2>*** Numbers ***</h2>
 
