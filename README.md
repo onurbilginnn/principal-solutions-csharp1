@@ -38,4 +38,6 @@
 <p>An integer number is said to be a perfect number if sum of its factors is equal to the number itself.(including 1, but not the number itself). For example, 6 is a perfect number, because 6 = 1 + 2 + 3.</p>
 <h4>Random Problem Generator on Four Operations:</h4>
 <p>Generating random problems with two numbers on four basic operations of math.</p>
-
+<h4>Simplifying Fractions:</h4>
+<p>An app that inputs two integers as numerator and denominator of a fraction. Then simplifies it.</p>
+<p>e.g 4/8 = 1/2 </p>
